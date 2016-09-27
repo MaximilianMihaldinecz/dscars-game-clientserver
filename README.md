@@ -25,3 +25,5 @@ A simple 2D car racing game written in Java 8 (Swing). Can be used by two player
 -	The server implements a waiting lobby where players wait for an opponent to play on the desired map (as multiple maps are available).
 -	Reasonably robust error handling and event logging on both sides, with appropriate user notification.
 
+![Main menu](/screen1.png)
+![Gameplay](/screen2.png)
